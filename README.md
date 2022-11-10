@@ -8,4 +8,4 @@
 
 [Lab 2 BFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/asd2_lab2)
 
-[Lab 2 RBFS]https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/asd2_lab2_rbfs)
+[Lab 2 RBFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/asd2_lab2_rbfs)
