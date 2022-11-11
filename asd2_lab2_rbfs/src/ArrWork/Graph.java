@@ -20,23 +20,12 @@ public class Graph {
         }
 
 
-    public int get_size(int number)
-    {
-        int size = adj[number].size();
-        return size;
-    }
 
     public LinkedList<Integer> get_adj(int V)
     {
         return adj[V];
     }
 
-    public void fill_adj(int[] fill, int V)
-    {
-        adj[V]=new LinkedList<>();
-        for(int j:fill)
-            adj[V].add(j);
-    }
 
     public void print_graph()
     {
@@ -72,6 +61,7 @@ public class Graph {
                 adj[answer] = RBFS(s,visited,i,n);
             }
             else {
+                System.out.println(i+1);
                 return adj[i];
             }
 

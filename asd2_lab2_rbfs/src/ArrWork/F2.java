@@ -25,15 +25,6 @@ public class F2 {
                 pairs++;
         }
 
-
-
-
-
-
-
-
-
-
         return pairs;
     }
 }
