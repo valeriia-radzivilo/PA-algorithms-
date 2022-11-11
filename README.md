@@ -1,7 +1,8 @@
 # PA_algorithms
 Предмет проєктування алгоритмів 2 курс 1 семестр
 Лаби
-[Zvits] (https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/zvits%20type)
+
+[Zvits](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/zvits%20type)
 
 [Lab 1](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/algorithm_lab1_mod)
 
