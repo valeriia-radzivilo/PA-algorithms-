@@ -11,3 +11,5 @@
 [Lab 2 BFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-2/asd2_lab2/src)
 
 [Lab 2 RBFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-2/asd2_lab2/src)
+
+[Lab 3 ](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-3)
