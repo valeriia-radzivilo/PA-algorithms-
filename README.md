@@ -1,15 +1,14 @@
-# PA_algorithms
-Предмет проєктування алгоритмів 2 курс 1 семестр
-Лаби
+If you don't have Maven on your pc:
+Install it using instruction: https://phoenixnap.com/kb/install-maven-windows
 
-[Zvits](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/zvits%20type)
+If you use cmd: DON`T FORGET TO RUN IT AS ADMIN
 
-[Lab 1](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/algorithm_lab1_mod)
+To compile:
+1. Go to folder src/main/java/com/labs -> run "javac -d . ./ArrWork/*.java ./Main.java"
+2. To compile test check pom.xml if it's the same as you need
+3. You must be in project folder
+4. Run in cmd "mvn clean test" it will build and run test
 
-[Lab 1 with modification](https://github.com/valeriia-radzivilo/PA_algorithms/tree/main/algorithm_lab1_mod)
 
-[Lab 2 BFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-2/asd2_lab2/src)
-
-[Lab 2 RBFS](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-2/asd2_lab2/src)
-
-[Lab 3 ](https://github.com/valeriia-radzivilo/PA_algorithms/tree/valeriia-radzivilo-lab-3)
+To run:
+1. Go to folder src/main/java/com/labs an run "java com.labs.Main"
