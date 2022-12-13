@@ -12,3 +12,7 @@ To compile:
 
 To run:
 1. Go to folder src/main/java/com/labs an run "java com.labs.Main"
+=======
+# PA_algorithms
+Предмет проєктування алгоритмів 2 курс 1 семестр
+>>>>>>> develop
