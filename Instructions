@@ -1,0 +1,10 @@
+If you use cmd: DON`T FORGET TO RUN IT AS ADMIN
+
+To compile:
+1. Go to folder src (it's specific location depends on where you install the program) -> run "javac -d . ./boad_view/* ./ArrWork/*.java ./Main.java"
+2. Type in "set classpath=" while being in folder src
+
+Now you are ready to run
+
+To run:
+1. Go to folder src an run "java Main"
