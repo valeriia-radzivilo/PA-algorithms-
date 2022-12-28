@@ -1,0 +1,7 @@
+If you use cmd: DON`T FORGET TO RUN IT AS ADMIN
+
+To compile:
+1. Go to folder src (it's specific location depends on where you install the program) -> run "javac -d . ./board_view/* ./ArrWork/*.java ./Main.java"
+
+To run:
+1. Go to folder src an run "java Main"
